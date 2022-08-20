@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "维基百科",
+      "origin": "zh.m.wikipedia.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "zh.wikipedia.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "维基词典",
+      "origin": "zh.m.wiktionary.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "zh.wiktionary.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "维基文库",
+      "origin": "zh.m.wikisource.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "zh.wikisource.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
