@@ -36,6 +36,17 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "维基共享资源",
+      "origin": "m.commons.wikimedia.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "commons.wikimedia.org",
+      "example": "",
+      "enable": true,
+      "process": ""
     }
   ]
 }
