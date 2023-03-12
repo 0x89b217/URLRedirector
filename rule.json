@@ -46,7 +46,20 @@
       "target": "commons.wikimedia.org",
       "example": "",
       "enable": true,
-      "process": ""
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "维基大典",
+      "origin": "zh-classical.m.wikipedia.org",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "zh-classical.wikipedia.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
